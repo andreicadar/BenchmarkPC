@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1699907542 source:c:\users\andrei\desktop\andrei\facultate\an3\scs\benchmarksemesterproject\ramspeedtest\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<time.h>
+

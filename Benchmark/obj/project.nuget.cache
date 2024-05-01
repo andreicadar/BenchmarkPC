@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "zoomgGZZKjpoQ3X3MsmT19ruZ7/flI7g9l3kPVC3LKgeoPGfP+NNPh30sANLysBgZEjejN0Sk5W74WjQ3GsNNQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Andrei\\Desktop\\Andrei\\Facultate\\An3\\SCS\\BenchmarkSemesterProject\\Benchmark\\Benchmark.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Andrei\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\Andrei\\.nuget\\packages\\system.management\\7.0.2\\system.management.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

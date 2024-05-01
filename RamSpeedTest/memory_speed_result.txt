@@ -1,0 +1,2 @@
+Memory Read Speed: 45.77 GB/s
+Memory Write Speed: 3.41 GB/s

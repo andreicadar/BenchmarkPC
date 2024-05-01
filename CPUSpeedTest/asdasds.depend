@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1700740957 source:c:\users\andrei\desktop\andrei\facultate\an3\scs\benchmarksemesterproject\asdasds\main.cpp
+	<stdio.h>
+	<stdint.h>
+	<iostream>
+	<time.h>
+	<fstream>
+	<iomanip>
+
